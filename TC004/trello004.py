@@ -82,7 +82,6 @@ class Trello(unittest.TestCase):
                 self.driver.execute_script("arguments[0].click();", button)
                 time.sleep(1)
                 print("Pass: Button 'Zaloguj' works!")
-                field.clear()
                 try:
                     error_message = Login_PageError(self.driver)
                     error_mess = error_message.getError_Field()
@@ -91,6 +90,7 @@ class Trello(unittest.TestCase):
                     logging.info("Pass: Error message present!\n")
                     now = datetime.today().strftime('%Y-%m-%d,  %H.%M.%S')
                     self.driver.save_screenshot(evidence_path + now + ' - step2         PASS.png')
+                    field.clear()
                 except:
                     error_message = Login_PageError(self.driver)
                     error_mess = error_message.getError_Field()
@@ -98,6 +98,7 @@ class Trello(unittest.TestCase):
                     logging.info("      FAIL: Error message NOT present!")
                     now = datetime.today().strftime('%Y-%m-%d,  %H.%M.%S')
                     self.driver.save_screenshot(evidence_path + now + ' - step2         FAIL.png')
+                    field.clear()
         except:
             print("     Fail: Button 'Zaloguj' not displayed")
             logging.info("     Fail: Button 'Zaloguj' not displayed")
