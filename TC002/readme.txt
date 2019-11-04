@@ -6,7 +6,7 @@ Prerequisites:
 
 
 Setup:
-- provide email and password of a registered account for Trello in email.txt file
+- provide email and password of a registered account (Atlessian!) for Trello in email.txt file
 	example:
 	email = test@wp.pl
 	password = 12345678
