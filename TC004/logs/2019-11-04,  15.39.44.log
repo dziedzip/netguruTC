@@ -1,0 +1,75 @@
+2019-11-04 15:39:44,858: INFO: ========== testCase02 STARTS ==========
+2019-11-04 15:39:59,352: INFO: Pass: Button 'Zaloguj' was clicked
+2019-11-04 15:40:03,597: INFO: Pass: Error message present!
+
+2019-11-04 15:40:05,141: INFO: Pass: Error message present!
+
+2019-11-04 15:40:06,666: INFO: Pass: Error message present!
+
+2019-11-04 15:40:08,298: INFO: Pass: Error message present!
+
+2019-11-04 15:40:09,787: INFO: Pass: Error message present!
+
+2019-11-04 15:40:11,338: INFO: Pass: Error message present!
+
+2019-11-04 15:40:12,912: INFO: Pass: Error message present!
+
+2019-11-04 15:40:16,387: INFO: Pass: Error message present!
+
+2019-11-04 15:40:19,670: INFO: Pass: Error message present!
+
+2019-11-04 15:40:21,179: INFO: Pass: Error message present!
+
+2019-11-04 15:40:22,746: INFO: Pass: Error message present!
+
+2019-11-04 15:40:24,247: INFO: Pass: Error message present!
+
+2019-11-04 15:40:25,925: INFO: Pass: Error message present!
+
+2019-11-04 15:40:27,406: INFO: Pass: Error message present!
+
+2019-11-04 15:40:28,997: INFO: Pass: Error message present!
+
+2019-11-04 15:40:30,492: INFO: Pass: Error message present!
+
+2019-11-04 15:40:32,014: INFO: Pass: Error message present!
+
+2019-11-04 15:40:33,566: INFO: Pass: Error message present!
+
+2019-11-04 15:40:35,034: INFO: Pass: Error message present!
+
+2019-11-04 15:40:36,650: INFO: Pass: Error message present!
+
+2019-11-04 15:40:38,142: INFO: Pass: Error message present!
+
+2019-11-04 15:40:39,705: INFO: Pass: Error message present!
+
+2019-11-04 15:40:41,327: INFO: Pass: Error message present!
+
+2019-11-04 15:40:42,886: INFO: Pass: Email accepted!
+2019-11-04 15:40:45,680: INFO: Pass: Button 'Zaloguj' works!
+2019-11-04 15:40:45,848: INFO: Pass: Button 'Kontynuuj' works again!
+2019-11-04 15:40:48,306: INFO: Pass: Error message present!
+
+2019-11-04 15:40:50,057: INFO: Pass: Error message present!
+
+2019-11-04 15:40:51,754: INFO: Pass: Error message present!
+
+2019-11-04 15:40:53,566: INFO: Pass: Error message present!
+
+2019-11-04 15:40:55,211: INFO: Pass: Error message present!
+
+2019-11-04 15:40:56,883: INFO: Pass: Error message present!
+
+2019-11-04 15:40:58,725: INFO: Pass: Error message present!
+
+2019-11-04 15:41:03,537: INFO: Pass: Error message present!
+
+2019-11-04 15:41:08,284: INFO: Pass: Error message present!
+
+2019-11-04 15:41:09,922: INFO: Pass: Error message present!
+
+2019-11-04 15:41:11,889: INFO: Pass: Error message present!
+
+2019-11-04 15:41:12,485: INFO: Pass: Error message present!
+2019-11-04 15:41:17,032: INFO: ========== testCase02 finished ==========
