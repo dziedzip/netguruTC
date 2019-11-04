@@ -1,2 +1,2 @@
 # netguruTC
-TestCases
+TestCases for Netguru
