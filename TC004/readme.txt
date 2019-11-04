@@ -1,5 +1,6 @@
 Prerequisites:
-- Drivers (chromedriver.exe) added to environmental variables, or present in test folder. The drivers versions have to be in sinc with installed browsers. Internet Explorer is excluded, because Trello does not support it.
+- python 3.7.5 (or higher)
+- Driver (chromedriver.exe) added to environmental variables, or present in test folder. The drivers version has to be in sinc with installed browsers. Internet Explorer is excluded, because Trello does not support it.
 - Selenium webdriver package (in command line "pip install selenium")
 - HtmlTestrinner (in command line "pip install html-test-Runner)
 - XLUtils (in command line "pip install XLUtils")
