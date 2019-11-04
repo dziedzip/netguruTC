@@ -1,0 +1,10 @@
+2019-11-04 12:48:56,970: INFO: ========== testCase02 STARTS ==========
+2019-11-04 12:49:09,607: INFO: Pass: Button 'Zaloguj' was clicked
+2019-11-04 12:49:13,783: INFO: Pass: Email accepted!
+2019-11-04 12:49:16,980: INFO: Pass: Button 'Zaloguj' works!
+2019-11-04 12:49:17,138: INFO: Pass: Button 'Kontynuuj' works again!
+2019-11-04 12:49:18,332: INFO: Pass: Password submitted!
+2019-11-04 12:49:27,773: INFO: Pass: User logged in!
+2019-11-04 12:49:28,883: INFO: Pass: Button 'Wyloguj' works!
+2019-11-04 12:49:31,924: INFO: Pass: User logged out!
+2019-11-04 12:49:36,502: INFO: ========== testCase02 finished ==========
